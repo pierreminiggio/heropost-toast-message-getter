@@ -1,5 +1,5 @@
 {
-  "name": "@pierreminiggio/heropost-linkedin-posting",
+  "name": "@pierreminiggio/heropost-toast-message-getter",
   "version": "1.0.0",
   "description": "Heropost Linkedin Posting",
   "main": "index.js",
@@ -9,14 +9,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/pierreminiggio/heropost-linkedin-posting.git"
+    "url": "git+https://github.com/pierreminiggio/heropost-toast-message-getter.git"
   },
   "author": "Pierre MINIGGIO",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/pierreminiggio/heropost-linkedin-posting/issues"
+    "url": "https://github.com/pierreminiggio/heropost-toast-message-getter/issues"
   },
-  "homepage": "https://github.com/pierreminiggio/heropost-linkedin-posting#readme",
-  "dependencies": {
-  }
+  "homepage": "https://github.com/pierreminiggio/heropost-toast-message-getter#readme"
 }
