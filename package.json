@@ -1,0 +1,22 @@
+{
+  "name": "@pierreminiggio/heropost-linkedin-posting",
+  "version": "1.0.0",
+  "description": "Heropost Linkedin Posting",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pierreminiggio/heropost-linkedin-posting.git"
+  },
+  "author": "Pierre MINIGGIO",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pierreminiggio/heropost-linkedin-posting/issues"
+  },
+  "homepage": "https://github.com/pierreminiggio/heropost-linkedin-posting#readme",
+  "dependencies": {
+  }
+}
